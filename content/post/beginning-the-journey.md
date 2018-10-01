@@ -3,12 +3,14 @@ title = "Beginning the Journey"
 date = 2018-10-01T00:39:54-04:00
 draft = true
 
+summary = "An introspection into my career goals and life dreams."
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Zachary Shaffer"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["first", "post", "first post", "beginning", "journey", "career", "goals", "dreams", "aspirations", "video games", "video", "games"]
+tags = ["first", "post", "first post", "beginning", "journey", "career", "goals", "dreams", "aspirations", "video games", "video", "games", "security", "cyber security"]
 categories = ["posts"]
 
 # Featured image
