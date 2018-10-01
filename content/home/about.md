@@ -17,24 +17,20 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.S. in Computer Science // Communication Arts Minor"
+  institution = "Allegheny College"
+  year = Exp. 2019
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello world! My name is Zachary Shaffer, and I am a student researcher pursuing an undergraduate degree at Allegheny College.
+I am majoring in computer science and minoring in communication arts. The majority of the work in my minor is dedicated to the
+production and direction of film. In my time studying computer science, I have developed an interest in researching data security,
+cyber security, and information security. My personal passion, however, lies in game design and video game development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My dream is to work in a field where computer science is met by human interaction. The passion I have for video game development
+comes from my love of storytelling and entertainment, and a desire to captivate an audience using film techniques with my programming
+skill. 
