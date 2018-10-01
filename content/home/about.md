@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cyber Security",
+    "Game Design",
+    "Film Production"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,7 +24,7 @@ weight = 5
 
 +++
 
-# About Me
+# Biography
 
 Hello world! My name is Zachary Shaffer, and I am a student researcher pursuing an undergraduate degree at Allegheny College.
 I am majoring in computer science and minoring in communication arts. The majority of the work in my minor is dedicated to the
@@ -33,4 +33,4 @@ cyber security, and information security. My personal passion, however, lies in 
 
 My dream is to work in a field where computer science is met by human interaction. The passion I have for video game development
 comes from my love of storytelling and entertainment, and a desire to captivate an audience using film techniques with my programming
-skill. 
+skill.
