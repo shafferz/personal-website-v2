@@ -14,3 +14,17 @@ list_format = 1
 image = "controller.jpg"
 caption = "A Video Game Controller"
 +++
+
+[
+[header]
+  image = "controller.jpg"
+  caption = "A Video Game Controller"
+[item]
+  title = "post"
+  content = "I am left aligned :smile:"
+  align = "left"
+
+  overlay_color = ""
+  overlay_img = ""
+  overlay_filter = 0.5  
+] 
