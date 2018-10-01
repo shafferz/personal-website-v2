@@ -37,8 +37,8 @@ weight = 7
   icon = "gamepad"
   icon_pack = "fas"
   name = "Game Development"
-  description = 55%
-  
+  description = "55%"
+
 [[feature]]
   icon = "film"
   icon_pack = "fas"
