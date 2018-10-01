@@ -24,19 +24,25 @@ weight = 7
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java"
+  description = "100%"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "gamepad"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Game Development"
+  description = 55%
+  
+[[feature]]
+  icon = "film"
+  icon_pack = "fas"
+  name = "Filmmaking"
+  description = "40%"  
 
 +++
