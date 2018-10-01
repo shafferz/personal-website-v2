@@ -40,6 +40,12 @@ weight = 7
   description = "55%"
 
 [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = ""
+  description = ""
+
+[[feature]]
   icon = "film"
   icon_pack = "fas"
   name = "Filmmaking"
