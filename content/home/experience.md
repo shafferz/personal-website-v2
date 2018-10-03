@@ -29,6 +29,16 @@ date_format = "January 2006"
   Working to help build a safe and friendly community environment in the dormitories of my campus,
   I have guided my colleagues to the resources they needed, helped plan and execute building events,
   and worked with the campus staff to keep the residents safe and healthy.
+
+  Responsibilities:
+  * Student Leadership
+  * Work/Maintenance Orders
+  * Duty logs
+
+  Skills Used:
+  * G Suite
+  * Microsoft Office
+  * Spreadsheet Management
   """
 
 [[experience]]
@@ -41,6 +51,18 @@ date_format = "January 2006"
   description = """Working with my colleagues in the introductory Computer Science courses at Allegheny,
   I would ensure that students understood the material and assisted them with the lab writing/debugging process.
   I also held weekly office hours, and distributed and oversaw examinations.
+
+  Responsibilities:
+  * Student Leadership
+  * Lab Grading
+  * Exam Proctoring
+
+  Skills Used:
+  * Java
+  * Python
+  * HTML/CSS
+  * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow "What's this?")
+
   """
 
 +++
