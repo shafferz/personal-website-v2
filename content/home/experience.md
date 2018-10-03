@@ -22,24 +22,25 @@ date_format = "January 2006"
   title = "Resident Advisor"
   company = "Allegheny College"
   company_url = "https://sites.allegheny.edu/residencelife/"
-  location = "Meadville, PA"
+  location = "Meadville"
   date_start = "2017-01-01"
-  date_end = "2018-12-01"
+  date_end = "2018-08-31"
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
+  Working to help build a safe and friendly community environment in the dormitories of my campus,
+  I have guided my colleagues to the resources they needed, helped plan and execute building events,
+  and worked with the campus staff to keep the residents safe and healthy.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Teaching Assistant"
+  company = "Allegheny College"
+  company_url = "https://www.cs.allegheny.edu/"
+  location = "Meadville"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2017-12-31"
+  description = """Working with my colleagues in the introductory Computer Science courses at Allegheny,
+  I would ensure that students understood the material and assisted them with the lab writing/debugging process.
+  I also held weekly office hours, and distributed and oversaw examinations.
+  """
 
 +++
