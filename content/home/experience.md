@@ -25,7 +25,9 @@ date_format = "January 2006"
   location = "Meadville, PA"
   date_start = "January 2017"
   date_end = "August 2018"
-  description = """Working to help build a safe and friendly community environment in the dormitories of my campus, I have guided my colleagues to the resources they needed, helped plan and execute building events, and worked with the campus staff to keep the residents safe and healthy. """
+  description = """Working to help build a safe and friendly community environment in the dormitories of my campus,
+  I have guided my colleagues to the resources they needed, helped plan and execute building events, and worked with
+  the campus staff to keep the residents safe and healthy."""
 
 [[experience]]
   title = "Teaching Assistant"
