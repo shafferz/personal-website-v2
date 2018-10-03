@@ -19,30 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
-  company = "Allegheny College"
-  company_url = "https://www.cs.allegheny.edu"
-  location = "Meadville, PA"
-  date_start = "January 2016"
-  date_end = "December 2017"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
-  Working with my colleagues in the introductory Computer Science courses at Allegheny, I ensured that students understood the material and assisted them with the lab writing/debugging process. I also held weekly office hours, and distributed and oversaw examinations.
   Responsibilities include:
 
-  * Teaching
-  * Grading
-  * Holding Office Hours
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Resident Advisor"
-  company = "Allegheny College"
-  company_url = "https://www.sites.allegheny.edu/residencelife/"
-  location = "Meadville, PA"
-  date_start = "January 2017"
-  date_end = "August 2018"
-  description = """
-  Working to help build a safe and friendly community environment in the dormitories of my campus, I have guided my colleagues to the resources they needed, helped plan and execute building events, and worked with the campus staff to keep the residents safe and healthy.
-  """
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
