@@ -22,9 +22,9 @@ date_format = "January 2006"
   title = "Resident Advisor"
   company = "Allegheny College"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Meadville, PA"
+  date_start = "January 2017"
+  date_end = "August 2018"
   description = """
   Responsibilities include:
 
