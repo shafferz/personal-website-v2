@@ -4,4 +4,4 @@ title = "From Player to Designer: Exploring Game Development"
 summary = "This is a summary."
 +++
 
-{{< figure src="/static/img/controller.png" title="A controller from the perspective of the player." >}}
+{{< figure src="/img/controller.png" title="A controller from the perspective of the player." >}}
