@@ -25,12 +25,12 @@ date_format = "January 2006"
   location = "Meadville, PA"
   date_start = "January 2016"
   date_end = "December 2017"
-  description = "Working with my colleagues in the introductory Computer Science courses at Allegheny, I ensured that students understood the material and assisted them with the lab writing/debugging process. I also held weekly office hours, and distributed and oversaw examinations."
+  description = "Working with my colleagues in the introductory Computer Science courses at Allegheny, I ensured that students understood the material and assisted them with the lab writing/debugging process. I also held weekly office hours, and distributed and oversaw examinations.
   Responsibilities include:
 
   * Teaching
   * Grading
-  * Holding Office Hours
+  * Holding Office Hours"
   """
 
 [[experience]]
