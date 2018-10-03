@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Resident Advisor"
   company = "Allegheny College"
-  company_url = ""
+  company_url = "https://sites.allegheny.edu/residencelife/"
   location = "Meadville, PA"
   date_start = "January 2017"
   date_end = "August 2018"
