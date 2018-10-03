@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Allegheny College"
   company_url = "https://sites.allegheny.edu/residencelife/"
   location = "Meadville, PA"
-  date_start = "January 2017"
-  date_end = ""
+  date_start = "2017-01-01"
+  date_end = "2018-12-01"
   description = """
   Responsibilities include:
 
