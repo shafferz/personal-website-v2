@@ -1,4 +1,4 @@
-# website
+# Website
 
 The website itself can be found [here](https://www.shafferz.com/).
 
