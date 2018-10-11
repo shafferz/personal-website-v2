@@ -8,4 +8,4 @@ summary = "My thoughts on video game development as a career."
 
 # <p align="center">Hobby or Career: Is Video Game Development Viable as a Career Option? </p>
 
-  No.
+  <Content inbound.>
