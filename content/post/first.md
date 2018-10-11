@@ -46,3 +46,7 @@ The above pictured tweet perfectly captures the frustration and pain every singl
 >Regardless of the circumstances,
 >players have been conditioned to believe that vehement personal attacks
 >are the right way to communicate with developers.
+
+Any young adult or teenager who has spent any amount of time in gaming forums, chat rooms, video game lobbies, or even the comments section on their preferred video game platform can attest to this very sentiment. Don't listen to your fans enough? You get death threats. Change the balance of items/abilities/characters in a game? You get [doxxed](https://en.wikipedia.org/wiki/Doxing). Implement loot boxes in your multiplayer game in an attempt to increase revenue and therefore improve production? Uh oh, looks like your servers got paralyzed by a distributed denial of service (DDOS) attack. The rampant toxicity of many (the minority, sure, but still *very* many) gamers online today is just too egregious to ignore.
+
+Frankly, I never want to deal with this kind of abuse. I never want to feel threatened over my creative or artistic choices for games that I produce. No part of me wants to endure unprecedented levels of hatred, regardless of whether or not I'm doing what I love to do, over something designed to bring joy and happiness to people. For now, I think I'll stay in my lane and focus on developing a professional career in cyber security. At least then I'll understand why people are trying to attack me.
