@@ -1,12 +1,10 @@
 +++
 date = 2017-12-01
-title = "From Player to Designer: Exploring Game Development"
+title = "Hobby or Career: Is Video Game Development Viable as a Career Option?"
 summary = "My thoughts on video game development as a career."
 +++
 
 {{< figure src="/img/controller.jpg" title="A controller from the perspective of the player." >}}
-
-# <p align="center">Hobby or Career: Is Video Game Development Viable as a Career Option? </p>
 
 Video game development has been, for as long as I can remember, one of my greatest passions in computer science. In fact, my very first programming experience was developing a small series of (mind you, *very* bad) video games for websites like Newgrounds and Kongregate. I remember sitting at our home computer, following YouTube tutorials for making my own games in Macromedia (now Adobe) Flash using ActionScript. Admittedly, I did not learn a lot of programming skill, but I did make *functional* games using what I had at my disposal.
 
