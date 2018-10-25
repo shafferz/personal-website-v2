@@ -64,8 +64,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "shafferz@allegheny.edu"
   address = "520 N. Main Street, Box 614, Meadville, PA 16335"
-  phone = "(412)652-6342"
-  skype = "shafferz"
+  phone = "Request via Email"
+  skype = "Request via Email"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -108,7 +108,7 @@ enableGitInfo = false
   description = "The personal and professional website for Zachary Shaffer, computer scientist and film producer."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "icon-192.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "shafferzshaffer"
