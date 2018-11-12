@@ -19,6 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Lead Technician: Property Master"
+  company = "The Playshop Theatre"
+  company_url = "https://sites.allegheny.edu/playshop/"
+  location = "Allegheny College"
+  date_start = "2018-09-08"
+  date_end = ""
+  description = """
+  In the Playshop Theatre's scenic studio, I work with other technicians to organize, modify, build,
+  or otherwise manage stage props for the various productions each semester. I have also worked with
+  the technical director and assistant technical director to hang lights, build sets, and complete
+  other various tasks as necessary on and off stage.
+
+  Responsibilities:
+  * Organize, clean, and maintain the stage prop storage room
+  * Pull, modify, or build both rehearsal and performance stage props
+  * Assist in other areas of the studio as assigned by the technical director (or assistant technical director)
+
+  Skills Used:
+  * Stage prop construction and organization
+  * Scenic and detail painting
+  * Basic carpentry
+  """
+
+[[experience]]
   title = "Resident Advisor"
   company = "Allegheny College"
   company_url = "https://sites.allegheny.edu/residencelife/"

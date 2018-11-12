@@ -31,19 +31,25 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = "100%"
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Communication"
+  description = "100%"
+
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
   description = "80%"
 
 [[feature]]
   icon = "gamepad"
   icon_pack = "fas"
   name = "Game Development"
-  description = "55%"
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  name = ""
-  description = ""
+  description = "65%"
 
 [[feature]]
   icon = "film"
