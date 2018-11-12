@@ -64,8 +64,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "shafferz@allegheny.edu"
   address = "520 N. Main Street, Box 614, Meadville, PA 16335"
-  phone = "Request via Email"
-  skype = "Request via Email"
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
