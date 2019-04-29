@@ -1,6 +1,6 @@
 +++
-title = "Black Faculty Representation at Allegheny College"
-summary = "An investigative piece on black faculty representation here at Allegheny."
+title = "Creating the IRBeast Software Tool"
+summary = "My perspective from developing IRBeast."
 date = 2019-04-29T00:00:00
 math = false
 highlight = false
@@ -12,5 +12,5 @@ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "faculty_collage_no_highlight.png"
+image = "beast.png"
 +++
