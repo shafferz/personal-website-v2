@@ -14,7 +14,8 @@ designed to help students know when they have satisfied the requirements of a
 given lab assignment on GitHub, is an open-source software developed by students
 at Allegheny College. You can check out the project
 [here](https://github.com/GatorEducator/gatorgrader), and you can read on to
-hear my personal reflection of my work on the system.
+hear my personal reflection of my work on the system as part of the Software
+Innovations course.
 
 At the start of the semester, I was more or less shoe-horned into a Team Leader
 position for a team of 5 other developers and myself. At the outset, we had
