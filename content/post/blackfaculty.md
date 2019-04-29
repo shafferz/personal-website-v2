@@ -1,5 +1,5 @@
 +++
-title = "Ethnic Faculty Representation at Allegheny College"
+title = "Black Faculty Representation at Allegheny College"
 date = 2019-04-29T00:00:00
 math = false
 highlight = false
