@@ -17,7 +17,7 @@ image = "faculty_collage_no_highlight.png"
 
 > The black experience at Allegheny is unlike any other. Coming to Meadville and
 > seeing confederate flags on trucks and houses is a different kind of trigger
-> for black students and faculty.
+> for black students and faculty. —<cite>Kristin Dukes</cite>
 
 The ethnic diversity representation at Allegheny College is far less than the
 national averages of other institutions for black, Asian, and Hispanic faculty.
@@ -44,3 +44,5 @@ ethnic backgrounds.
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
+
+<iframe width="960" height="455" data-original-width="1900" data-original-height="900" src="https://www.thinglink.com/card/1181889690832207874" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
