@@ -62,7 +62,7 @@ Asian, Hispanic... who are they supposed to lean on for support?" Reconsider the
 headline image of this article. Can you identify all of the black faculty or
 staff members?
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
+<p><iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe></p>
 
 This sentiment is also echoed by the faculty itself — in the 2009 Biennial
 Report of the Diversity and Gender Equity Committee, faculty were surveyed with
@@ -83,3 +83,9 @@ regard to their tenure status. The below graphic provides more information about
 these faculty and staff members.
 
 <p><iframe width="100%" height="355" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script></p>
+
+Not only is the lack of a black faculty presence apparent, but there is a
+particularly unique challenge when it comes to finding black faculty. While the
+college is actively seeking more faculty of color (and specifically black
+faculty), Kristin Dukes pointed out that the black experience in Meadville comes
+with "triggers unique to black faculty."
