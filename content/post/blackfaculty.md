@@ -47,6 +47,6 @@ Test words here.
 
 Test words here.
 
-<iframe width="100%" height="455" src="https://www.thinglink.com/card/1181889690832207874" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+<iframe width="100%" height="455" src="https://www.thinglink.com/card/1181889690832207874" type="html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
 Test words here.
