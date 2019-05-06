@@ -165,3 +165,28 @@ other factors such as lack of support and the harsh environment ultimately end
 up being what drives most of them away.
 
 ## Part 6 - Conclusion
+
+> For any POC faculty moving in, if you're willing to stand steadfast, this
+place can get better. It's not wonderful now, but it can get better.
+—<cite>Kristin Dukes</cite>
+
+At the end of the day, regardless of perception, Allegheny College is making a
+distinct, concerted effort to hire more black faculty members. In years past,
+there has been a program which has run in iterations called the Diversity
+Scholar in Residence. It has been revived this year, and revived with a focus on
+hiring more faculty of color and providing the support they need to stay. The
+program includes additional layers of mentoring at the departmental, collegiate,
+and external levels, features decreased teaching loads for incumbent faculty of
+color (reduction from a 3-3 to a 2-2 [2-2 means 2 courses in fall and 2 courses
+in spring]) with the same opportunities as professors with higher loads,
+reviving faculty of color meet-and-greets, and more. But there are many factors
+that make this task difficult, even beyond what I have mentioned already (for
+example, competing with R1 research schools to hire the same candidates with
+less money to offer).
+
+While there is a long way to go, it seems pretty clear
+that Kristin Dukes and Allegheny College are making an honest effort to increase
+the faculty diversity, especially with black professors, and is doing what it
+can to work within the goals of the college. As Dukes said in our interview,
+"We want to find the right people willing to dig in, take a couple of bruises,
+and support the overall goals of the college."
