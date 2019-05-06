@@ -82,4 +82,4 @@ those four are tenured — leaving the remaining two black faculty in limbo with
 regard to their tenure status. The below graphic provides more information about
 these faculty and staff members.
 
-<iframe width="100%" height="355" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+<p><iframe width="100%" height="355" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script></p>
