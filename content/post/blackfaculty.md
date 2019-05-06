@@ -69,9 +69,9 @@ the diversity in faculty is overall lacking, there is a distinct absence of
 black faculty. Of the six faces highlighted in the infographic above, five of
 them are faculty. Of the five, only four are full-time at Allegheny. Half of
 those four are tenured — leaving the remaining two black faculty in limbo with
-regard to their tenure status. 
+regard to their tenure status.
 
-<iframe width="100%" height="455" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+<iframe width="230" height="155" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
 This sentiment is also echoed by the faculty itself — in the 2009 Biennial
 Report of the Diversity and Gender Equity Committee, faculty were surveyed with
