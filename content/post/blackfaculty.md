@@ -2,7 +2,7 @@
 title = "Understanding Black Faculty Representation at Allegheny College"
 summary = "An investigative piece on black faculty representation here at Allegheny."
 date = 2019-04-29T00:00:00
-math = true
+math = false
 highlight = false
 
 # List format.
