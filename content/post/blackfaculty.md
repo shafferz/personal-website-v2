@@ -41,7 +41,9 @@ ethnic backgrounds.
 
 ![allegheny-diversity](/img/Ethnic-Diversity-of-Allegheny-Faculty.png)
 
-Test words here.
+Although behind the national average in every way, Allegheny has different
+standards for comparing itself to other institutions. Allegheny reports based
+on its standard comparison group, 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
 
