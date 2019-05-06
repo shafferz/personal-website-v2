@@ -37,9 +37,9 @@ faculty of color not international faculty. To see just how Allegheny stacks up,
 consider the percentages of white faculty in comparison to faculty of other
 ethnic backgrounds.
 
-![college-diversity](static/img/Representation.png)
+![college-diversity](/img/Representation.png)
 
-![allegheny-diversity](static/img/Ethnic-Diversity-of-Allegheny-Faculty.png)
+![allegheny-diversity](/img/Ethnic-Diversity-of-Allegheny-Faculty.png)
 
 
 
