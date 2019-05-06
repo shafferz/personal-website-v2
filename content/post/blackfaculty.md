@@ -64,15 +64,6 @@ staff members?
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
 
-Students want and need Allegheny College to hire more faculty of color. While
-the diversity in faculty is overall lacking, there is a distinct absence of
-black faculty. Of the six faces highlighted in the infographic above, five of
-them are faculty. Of the five, only four are full-time at Allegheny. Half of
-those four are tenured — leaving the remaining two black faculty in limbo with
-regard to their tenure status.
-
-<iframe width="230" height="155" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
-
 This sentiment is also echoed by the faculty itself — in the 2009 Biennial
 Report of the Diversity and Gender Equity Committee, faculty were surveyed with
 a series of questions from the Higher Education Research Institute (HERI),
@@ -82,3 +73,14 @@ color." The response was overwhelming in favor of agree, with an overall
 faculty average of 3.2. Furthermore, Kristin Dukes, during our interview, told
 me that the College is actively engaged in efforts to hire more faculty of
 color.
+
+Students want and need Allegheny College to hire more faculty of color. While
+the diversity in faculty is overall lacking, there is a distinct absence of
+black faculty. Of the six faces highlighted in the infographic above, five of
+them are faculty. Of the five, only four are full-time at Allegheny. Half of
+those four are tenured — leaving the remaining two black faculty in limbo with
+regard to their tenure status. The below graphic provides more information about
+these faculty and staff members.
+
+<iframe width="230" height="155" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe>
+<!--- <script async src="//cdn.thinglink.me/jse/responsive.js"></script> --->
