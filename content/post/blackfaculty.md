@@ -2,13 +2,13 @@
 title = "Black Faculty Representation at Allegheny College"
 summary = "An investigative piece on black faculty representation here at Allegheny."
 date = 2019-04-29T00:00:00
-math = false
+math = true
 highlight = false
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 1
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
