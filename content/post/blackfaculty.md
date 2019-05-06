@@ -45,4 +45,4 @@ ethnic backgrounds.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
 
-<iframe width="100%" height="455" src="https://www.thinglink.com/card/1181889690832207874" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+<iframe width="100%" height="455" src="https://www.thinglink.com/card/1181889690832207874" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
