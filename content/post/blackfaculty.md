@@ -15,8 +15,9 @@ list_format = 1
 image = "faculty_collage_no_highlight.png"
 +++
 
-> I would take ten white folks who are equity-minded over a single candidate
-> of color who isn't.
+> The black experience at Allegheny is unlike any other. Coming to Meadville and
+> seeing confederate flags on trucks and houses is a different kind of trigger
+> for black students and faculty.
 
 The ethnic diversity representation at Allegheny College is far less than the
 national averages of other institutions for black, Asian, and Hispanic faculty.
@@ -31,7 +32,13 @@ doing to hire more faculty of color, and why hiring more black faculty is a
 deceptively daunting task.
 
 Evidenced by the headlining image, Allegheny's faculty is primarily white. In
-fall of 2017, there were 169 full-time faculty members, of which 139 neither
-faculty of color not international faculty.
+fall of 2017, there were 169 full-time faculty members, of which 139 are neither
+faculty of color not international faculty. To see just how Allegheny stacks up,
+consider the percentages of white faculty in comparison to faculty of other
+ethnic backgrounds.
+
+![college-diversity](../../static/img/Representation.png)
+
+![allegheny-diversity](../../static/img/Ethnic-Diversity-of-Allegheny-Faculty.png)
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
