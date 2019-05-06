@@ -14,3 +14,5 @@ list_format = 1
 [header]
 image = "faculty_collage_no_highlight.png"
 +++
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="900" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
