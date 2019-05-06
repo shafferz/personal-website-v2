@@ -20,6 +20,13 @@ image = "faculty_collage_no_highlight.png"
 
 Kristin Dukes, the Dean for Institutional Diversity, met with me to help me
 better understand where Allegheny College stands in terms of hiring more black
-faculty members.
+faculty members. In our discussion, we explored exactly how diverse Allegheny's
+faculty is, where we stand in relation to other schools, what the college is
+doing to hire more faculty of color, and why hiring black faculty is a unique
+challenge.
+
+Evidenced by the headlining image, Allegheny's faculty is primarily white. In
+fall of 2017, there were 169 full-time faculty members, of which 139 neither
+faculty of color not international faculty. 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="900" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
