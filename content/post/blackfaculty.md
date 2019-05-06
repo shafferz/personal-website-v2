@@ -1,5 +1,5 @@
 +++
-title = "Black Faculty Representation at Allegheny College"
+title = "Understanding Black Faculty Representation at Allegheny College"
 summary = "An investigative piece on black faculty representation here at Allegheny."
 date = 2019-04-29T00:00:00
 math = true
@@ -19,6 +19,8 @@ image = "faculty_collage_no_highlight.png"
 > seeing confederate flags on trucks and houses is a different kind of trigger
 > for black students and faculty.—<cite>Kristin Dukes, Dean for institutional
 Diversity</cite>
+
+## Part 1 - Faculty Diversity
 
 The ethnic diversity representation at Allegheny College is far less than the
 national averages of other institutions for black, Asian, and Hispanic faculty.
@@ -52,6 +54,8 @@ the same as is
 on the Allegheny website. By all found accounts, Allegheny College is on par
 with the other schools in its SCG.
 
+## Part 2 - Effects of (the lack of) Faculty Representation
+
 > We need support. Who are we supposed to go to? To look up to?—<cite>Brianna Watson, '19</cite>
 
 Regardless of how Allegheny stacks up with its similar schools, however,
@@ -63,6 +67,8 @@ headline image of this article. Can you identify all of the black faculty or
 staff members?
 
 <p><iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe></p>
+
+## Part 3 - Black Faculty at Allegheny College
 
 This sentiment is also echoed by the faculty itself — in the 2009 Biennial
 Report of the Diversity and Gender Equity Committee, faculty were surveyed with
@@ -84,6 +90,9 @@ these faculty and staff members.
 
 <p><iframe width="100%" height="355" src="https://www.thinglink.com/card/1181889690832207874" frameborder="0" allowfullscreen></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script></p>
 
+
+## Part 4 - The Challenge of Hiring Black Faculty
+
 Not only is the lack of a black faculty presence apparent, but there is a
 particularly unique challenge when it comes to finding black faculty. While the
 college is actively seeking more faculty of color (and specifically black
@@ -99,11 +108,60 @@ particularly difficult.
 > I met someone who said I am a 'clean and classy black,' so I must not be from
 around here. Another time, after telling someone I worked at Allegheny, I was
 told that if I was cleaning staff, I 'should work at Edinboro, it's a better
-job.'—<cite>Kristin Dukes, Dean for institutional
-Diversity</cite>
+job.'—<cite>Kristin Dukes</cite>
+
+To come to Meadville and to come to Allegheny College are the same actions. It
+is often the common misconception that the city of Meadville and the campus of
+Allegheny College are in different realms, but the simple fact of the matter is
+that Meadville and the college are one in the same. If you drive onto campus
+from town via North Main Street, and continue driving on that road, you transfer
+from Meadville to Allegheny College and from Allegheny College to West Mead in
+a matter of moments. Combine this with the fact that local bars have counter
+tops decorated with confederate flags made of pennies and walls adorning the
+'stars and bars,' an active local chapter of the Ku Klos Knights of the Ku Klux
+Klan, and a city population that is at most five percent black, and the
+immediate deterrents for black faculty to come to Allegheny become clear.
+
+Furthermore, Allegheny is not going to hire black faculty for the sake of having
+more black faculty. Dukes stated it clearly: "I'd sooner hire ten white folks
+who have equity in mind over a single black candidate isn't equity-minded." As
+standard hiring process, every applicant must include a diversity statement,
+intended to assess each candidate's dedication to creating an equitable
+environment or putting in the work necessary to facilitate a diverse campus.
+Even once a person of color is hired as a new faculty member, though, other
+factors must be considered for the mental and emotional health of the newly
+hired.
+
+## Part 5 - Hiring Black Faculty is Hard; Retaining Black Faculty is Harder
 
 As if finding a black faculty member who is willing to come to Meadville, PA,
 and make an honest attempt at joining this community as an instructor wasn't
-difficult enough, there's still two more problems the school faces when hiring
-faculty of color: whether or not the candidate is a good fit for the school, and
-whether or not they will want to stay at the school once they get here.
+difficult enough, there's still one major issue for the newly hired: retention.
+Allegheny College has historically struggled to retain faculty of color. In
+the 2009 Biennial Report of the Diversity and Gender Equity Committee, it is
+reported that **zero** percent of faculty of color hired between 1993 and 1998
+were retained by 2009, and two out of three of the faculty of color hired in
+1999/2000 were retained. That is a total loss of 75% of all faculty of color
+hired from 1993-2000 by the year 2009. This is the most recent, complete set of
+data available to me at this time for historic faculty of color retention data.
+
+What makes the retention of black faculty so difficult? Well, aside from the
+aforementioned factors such as lacking a safe social environment, there are
+other factors such as a lack of support for black faculty and a high volume of
+demand for support from black faculty for black students. Since there are so
+few black professors in general, black professors often have to outsource
+receiving support in their instructing roles from external contacts at other
+universities. Black faculty must also rely heavily on the support of their
+white allies on the faculty as they make the transition into this new,
+relatively hostile environment.
+
+Not only do the black professors need support, but they also act as magnets to
+a support system that is desperately sought after by students. Many people
+believe that if faculty of color is hired, they will immediately be ready to
+enter the role of supporting students, or that they will even be interested in
+doing the work necessary to create this support. It is a common narrative that
+the faculty of color leave Allegheny because the school is unwelcoming, but
+other factors such as lack of support and the harsh environment ultimately end
+up being what drives most of them away.
+
+## Part 6 - Conclusion
