@@ -43,7 +43,12 @@ ethnic backgrounds.
 
 Although behind the national average in every way, Allegheny has different
 standards for comparing itself to other institutions. Allegheny reports based
-on its standard comparison group, 
+on its standard comparison group, a group of schools deemed by the college to be
+similar to Allegheny in size and climate to guide institutional policy
+decisions. This standard comparison group is currently being reviewed, but is
+the same as is
+[currently listed](https://sites.allegheny.edu/institutionalresearch/surveys/)
+on the Allegheny website.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe>
 
