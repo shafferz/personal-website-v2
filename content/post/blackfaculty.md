@@ -17,7 +17,7 @@ image = "faculty_collage_no_highlight.png"
 
 > The black experience at Allegheny is unlike any other. Coming to Meadville and
 > seeing confederate flags on trucks and houses is a different kind of trigger
-> for black students and faculty. —<cite>Kristin Dukes, Dean for institutional
+> for black students and faculty.—<cite>Kristin Dukes, Dean for institutional
 Diversity</cite>
 
 The ethnic diversity representation at Allegheny College is far less than the
@@ -52,7 +52,7 @@ the same as is
 on the Allegheny website. By all found accounts, Allegheny College is on par
 with the other schools in its SCG.
 
-> We need support. Who are we supposed to go to? To look up to? —<cite>Brianna Watson, '19</cite>
+> We need support. Who are we supposed to go to? To look up to?—<cite>Brianna Watson, '19</cite>
 
 Regardless of how Allegheny stacks up with its similar schools, however,
 students of color feel a lack of support and a need for a more ethnically
@@ -88,4 +88,22 @@ Not only is the lack of a black faculty presence apparent, but there is a
 particularly unique challenge when it comes to finding black faculty. While the
 college is actively seeking more faculty of color (and specifically black
 faculty), Kristin Dukes pointed out that the black experience in Meadville comes
-with "triggers unique to black faculty."
+with triggers unique to black faculty. Noting an educational, socioeconomic, and
+racial divide, Dukes noted how difficult it is for black faculty to find the
+"creature comforts" that any person would need: social interactions, food, and
+sunshine. She described Meadville as a insular community that you need to break
+into in order to be comfortable. And even once that happens, there will still
+be encounters and times when living in Meadville as a black professor is
+particularly difficult.
+
+> I met someone who said I am a 'clean and classy black,' so I must not be from
+around here. Another time, after telling someone I worked at Allegheny, I was
+told that if I was cleaning staff, I 'should work at Edinboro, it's a better
+job.'—<cite>Kristin Dukes, Dean for institutional
+Diversity</cite>
+
+As if finding a black faculty member who is willing to come to Meadville, PA,
+and make an honest attempt at joining this community as an instructor wasn't
+difficult enough, there's still two more problems the school faces when hiring
+faculty of color: whether or not the candidate is a good fit for the school, and
+whether or not they will want to stay at the school once they get here.
