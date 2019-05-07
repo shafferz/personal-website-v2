@@ -23,7 +23,7 @@ image = "faculty_collage_no_highlight.png"
 
 ## Part 1 - Faculty Diversity
 
-The ethnic diversity representation at Allegheny College is far less than the
+The racial diversity representation at Allegheny College is far less than the
 national averages of other institutions for black, Asian, and Hispanic faculty.
 Furthermore, the black experience at Allegheny College for faculty and students
 alike is comes with its own unique challenges.
@@ -39,7 +39,7 @@ Evidenced by the headlining image, Allegheny's faculty is primarily white. In
 fall of 2017, there were 169 full-time faculty members, of which 139 are neither
 faculty of color not international faculty. To see just how Allegheny stacks up,
 consider the percentages of white faculty in comparison to faculty of other
-ethnic backgrounds.
+racial backgrounds.
 
 ![college-diversity](/img/Representation.png)
 
@@ -62,7 +62,7 @@ with the other schools in its SCG.
 >—<cite>Brianna Watson, '19</cite>
 
 Regardless of how Allegheny stacks up with its similar schools, however,
-students of color feel a lack of support and a need for a more ethnically
+students of color feel a lack of support and a need for a more racially
 diverse faculty. Brianna Watson, class of 2019, said in an interview that there
 isn't enough support for students of color. "Any student of color, black,
 Asian, Hispanic... who are they supposed to lean on for support?" Reconsider the
