@@ -174,7 +174,7 @@ up being what drives most of them away.
 > For any POC faculty moving in, if you're willing to stand steadfast, this
 place can get better. It's not wonderful now, but it can get better.
 >
-> s—<cite>Kristin Dukes</cite>
+> —<cite>Kristin Dukes</cite>
 
 At the end of the day, regardless of perception, Allegheny College is making a
 distinct, concerted effort to hire more black faculty members. In years past,
