@@ -17,8 +17,9 @@ image = "faculty_collage_no_highlight.png"
 
 > The black experience at Allegheny is unlike any other. Coming to Meadville and
 > seeing confederate flags on trucks and houses is a different kind of trigger
-> for black students and faculty.—<cite>Kristin Dukes, Dean for institutional
-Diversity</cite>
+> for black students and faculty.
+>
+>—<cite>Kristin Dukes, Dean for Institutional Diversity</cite>
 
 ## Part 1 - Faculty Diversity
 
@@ -56,7 +57,9 @@ with the other schools in its SCG.
 
 ## Part 2 - Effects of (the lack of) Faculty Representation
 
-> We need support. Who are we supposed to go to? To look up to?—<cite>Brianna Watson, '19</cite>
+> We need support. Who are we supposed to go to? To look up to?
+>
+>—<cite>Brianna Watson, '19</cite>
 
 Regardless of how Allegheny stacks up with its similar schools, however,
 students of color feel a lack of support and a need for a more ethnically
@@ -108,7 +111,9 @@ particularly difficult.
 > I met someone who said I am a 'clean and classy black,' so I must not be from
 around here. Another time, after telling someone I worked at Allegheny, I was
 told that if I was cleaning staff, I 'should work at Edinboro, it's a better
-job.'—<cite>Kristin Dukes</cite>
+job.'
+>
+> —<cite>Kristin Dukes</cite>
 
 To come to Meadville and to come to Allegheny College are the same actions. It
 is often the common misconception that the city of Meadville and the campus of
@@ -168,7 +173,8 @@ up being what drives most of them away.
 
 > For any POC faculty moving in, if you're willing to stand steadfast, this
 place can get better. It's not wonderful now, but it can get better.
-—<cite>Kristin Dukes</cite>
+>
+> s—<cite>Kristin Dukes</cite>
 
 At the end of the day, regardless of perception, Allegheny College is making a
 distinct, concerted effort to hire more black faculty members. In years past,
