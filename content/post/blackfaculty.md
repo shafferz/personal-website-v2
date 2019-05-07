@@ -69,7 +69,7 @@ Asian, Hispanic... who are they supposed to lean on for support?" Reconsider the
 headline image of this article: can you identify all of the black faculty or
 staff members?
 
-<p><iframe frameborder="0" class="juxtapose" width="100%" height="1200" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=10dc23e4-6fa1-11e9-8106-0edaf8f81e27"></iframe></p>
+<iframe frameborder="0" class="juxtapose" width="100%" height="900" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=6975ecac-70e5-11e9-8106-0edaf8f81e27"></iframe>
 
 ## Part 3 - Black Faculty at Allegheny College
 
