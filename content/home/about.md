@@ -27,6 +27,6 @@ weight = 5
 
 # About Me
 
-Hello world! My name is Zachary Shaffer, and I am a student researcher pursuing an undergraduate degree at Allegheny College. I am majoring in computer science and minoring in communication arts. The majority of the work in my minor is dedicated to the production and direction of film. In my time studying computer science, I have developed an interest in researching data security, cyber security, and information security. My personal passions, however, are game design, video game development, and teaching.
+Hello world! My name is Zachary Shaffer, and I am a computer science professional with an undergraduate degree from Allegheny College. I am majoring in computer science and minoring in communication arts. The majority of the work in my minor is dedicated to the production and direction of film. In my time studying computer science, I have developed an interest in researching data security, cyber security, and information security. My personal passions, however, are game design, video game development, and teaching.
 
 My dream is to work in a field where computer science is met by human interaction, and to use my skills to teach computer science at any level. The passion I have for video game development comes from my love of storytelling and entertainment, and a desire to captivate an audience using film techniques with my programming skill. My ultimate goal is to create media specifically to be used for computer science education.
